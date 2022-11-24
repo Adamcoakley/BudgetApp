@@ -14,7 +14,7 @@
 2) To clone the repository using HTTPS, under "Clone with HTTPS," click the copy icon.
 3) Open Git Bash.
 4) Change the current working directory to the location where you want the cloned directory.
-5) Type git clone, and then paste the URL you copied earlier. For example: git clone https://github.com/Adamcoakley/BudgetApp.git
+5) Type git clone, and then paste the URL you copied earlier. For example: git clone https://github.com/Adamcoakley/budget-app.git
 6) Press enter and the clone will be created.
 
 
